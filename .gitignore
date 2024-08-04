@@ -1,0 +1,8 @@
+
+# IDE environment
+.idea
+.vscode
+
+# Python environment
+.venv
+__pycache__
